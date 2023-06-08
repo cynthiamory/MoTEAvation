@@ -1,0 +1,20 @@
+{
+  "name": "moteavation",
+  "version": "1.0.0",
+  "description": "an API that generates good vibes. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiamory/MoTEAvation.git"
+  },
+  "author": "Cynthia Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cynthiamory/MoTEAvation/issues"
+  },
+  "homepage": "https://github.com/cynthiamory/MoTEAvation#readme"
+}

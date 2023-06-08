@@ -1,2 +1,2 @@
 # MoTEAvation
-A motivation app filled with tea recommendations.
+A motivation API filled with tea recommendations.
